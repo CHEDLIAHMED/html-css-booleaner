@@ -1,8 +1,23 @@
-.header{
-background-image:url(../pattern.png);
+.header {
+background-image:url(../img/pattern.png);
 background-color:#24A5FF;
 height: 150px;
 background-size: 600px;
 };
-span{color: #24A5FF;}
+span {color: #24A5FF;}
+.table-head {
+    background-color: #24A5FF;
+    text-align: center;
+}
+.list-color {
+    background-color: aqua ;
+}
+.table-foot {
+    background-color: aqua;
+    text-align: left;
+}
 
+.span-footer {
+    color: #20202048;
+    font-size: bold;
+}
